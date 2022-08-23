@@ -3,7 +3,7 @@ name: Release charts
 on:
   push:
     branches:
-      - main
+      - coreweave
 
 jobs:
   release:
